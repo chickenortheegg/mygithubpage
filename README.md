@@ -1,1 +1,2 @@
-# mygithubpage
+# SpinPositive.me
+A project by chickenortheegg
